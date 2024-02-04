@@ -1,6 +1,6 @@
 # clone git repo
-git clone https://github.com/AlexSenties/vs-GPT.git
-cd vs-GPT
+git clone https://github.com/HubbaYeet/NaturalReminder.git
+cd NaturalReminder
 
 # run program
 python3 main.py
